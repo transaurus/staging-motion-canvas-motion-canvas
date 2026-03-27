@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar docs"
+  },
+  "sidebar.docs.category.Rendering": {
+    "message": "Rendering",
+    "description": "The label for category Rendering in sidebar docs"
+  },
+  "sidebar.docs.category.Components": {
+    "message": "Components",
+    "description": "The label for category Components in sidebar docs"
+  },
+  "sidebar.docs.category.Code": {
+    "message": "Code",
+    "description": "The label for category Code in sidebar docs"
+  },
+  "sidebar.docs.category.Advanced": {
+    "message": "Advanced",
+    "description": "The label for category Advanced in sidebar docs"
+  },
+  "sidebar.docs.category.Authoring plugins": {
+    "message": "Authoring plugins",
+    "description": "The label for category Authoring plugins in sidebar docs"
+  },
+  "sidebar.docs.category.Migration": {
+    "message": "Migration",
+    "description": "The label for category Migration in sidebar docs"
+  }
+}
