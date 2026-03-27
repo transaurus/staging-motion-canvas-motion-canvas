@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/motion-canvas/motion-canvas",
+  "branch": "main",
+  "docusaurusRoot": "packages/docs",
+  "configFile": "packages/docs/docusaurus.config.js",
+  "translateCommand": "npx docusaurus write-translations",
+  "buildCommand": "NODE_OPTIONS=--max_old_space_size=4096 npx docusaurus build",
+  "buildOutput": "build",
+  "packageManager": "npm"
+}
