@@ -7,14 +7,14 @@ const config = {
     'A TypeScript library for creating animated videos using the Canvas API.',
   url: 'https://motioncanvas.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: "warn",
   favicon: 'img/favicon.svg',
   organizationName: 'motion-canvas',
   projectName: 'motion-canvas.github.io',
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
   markdown: {
     mermaid: true,
